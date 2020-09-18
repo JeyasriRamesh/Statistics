@@ -1,5 +1,6 @@
 # Statistics
+Hypothesis testing
 <ul>
-<li>Hypothesis testing - 1 sample proportion Z test</br></li>
-<li>Hypothesis testing - 2 sample proportion Z test</br></li>
+<li> 1 sample proportion Z test</br></li>
+<li> 2 sample proportion Z test</br></li>
 </ul>
